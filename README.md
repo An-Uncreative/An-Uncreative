@@ -1,5 +1,5 @@
-![Hey...](https://github.com/An-Uncreative/An-Uncreative/raw/master/unnamed.png)
 <h1 align="center">Hey there 👋, Hope you're having a wonderful day. </h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=9&color=78A73ADA&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=75&lines=I'm+Oluwatise.;Welcome+to+my+world!" alt="Typing SVG" /></a></h1>
 
 <!--
 **An-Uncreative/An-Uncreative** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
