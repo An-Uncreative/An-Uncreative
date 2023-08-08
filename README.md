@@ -12,7 +12,7 @@ Here are some ideas to get you started:   -->
 
 - 🔭 I’m currently a student of the Federal University of Abeokuta
 
-- 📚 I'm majoring in Computer Science, and it hasn't killed me yet soooo 🤷‍♂️
+- 📚 I'm majoring in Computer Science, and so far it hass been a pleasant experience
 
 - 🌱 I’m currently on track to becoming a better programmer through the ALX bootcamp
 
@@ -20,9 +20,9 @@ Here are some ideas to get you started:   -->
 
 - 💬 Ask me about anything... we will figure it out together
 
-- 📫 How to reach me: oluwatiseerinle@gmail.com
+- 📫 Want to reach me, Just send a mail to oluwatiseerinle@gmail.com
 
-- ⚡ Fun fact: errm... I am always hungry😂, Infact I'm hungry right now.
+- ⚡ Fun fact about me: errm... I am always hungry😂, Infact I'm hungry right now.
 
 ## 🧰 &nbsp;My toolbox
 <p align="left"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="blender" width="40" height="40"/>  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
