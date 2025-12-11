@@ -6,30 +6,89 @@
 **An-Uncreative/An-Uncreative** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:   -->
-<h3 align="center">Welcome to my world, Enjoy!</h3>
 
 <img src="https://cdn.dribbble.com/users/1714010/screenshots/10822383/media/ea98dfbdc8c2a056427061871bb42edc.gif" alt="An Overworking developer" width="1000" height="500" >
 
-- 🔭 I’m currently a student of the Federal University of Abeokuta
+💼 Open to Frontend & Full-Stack Developer Opportunities
 
-- 📚 I'm majoring in Computer Science, and so far it hass been a pleasant experience
+---
 
-- 🌱 I’m currently on track to becoming a better programmer through the ALX bootcamp
+## 🌟 Featured Projects
 
-- 😁 I’m looking forward to showcasing what I can do as I take you on a journey through my mind.
+### [🎬 Movie Database](https://movie-database-three-ecru.vercel.app/)
 
-- 💬 Ask me about anything... we will figure it out together
+Advanced React application with TMDB API integration, React Router, dynamic filtering, and sorting capabilities.  
+**Tech:** React, React Router, TMDB API, Vite, Lodash  
+[View Code](https://github.com/An-Uncreative/movie-database)
 
-- 📫 Want to reach me, Just send a mail to oluwatiseerinle@gmail.com
+### [✅ Todo & Shopping List](https://to-do-olive-omega.vercel.app/)
 
-- ⚡ Fun fact about me: errm... I am always hungry😂, Infact I'm hungry right now.
+Full-stack CRUD application with RESTful API backend and real-time data synchronization.  
+**Tech:** React, JSON Server, REST API, Vercel, Render  
+[Frontend Code](https://github.com/An-Uncreative/To-Do) | [Backend API](https://github.com/An-Uncreative/Todo-Shopping-API)
 
-## 🧰 &nbsp;My toolbox
-<p align="left"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="blender" width="40" height="40"/>  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+### [🌤️ Weather Dashboard](https://an-uncreative.github.io/Weather-App/)
 
-&nbsp;
+Real-time weather application with city search and dynamic weather icons.  
+**Tech:** JavaScript, OpenWeatherMap API, Fetch API, GitHub Pages  
+[View Code](https://github.com/An-Uncreative/Weather-App)
 
+---
 
-## 📊 &nbsp;Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=An-Uncreative)](https://github.com/anuraghazra/github-readme-stats)   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=An-Uncreative&show_icons=true)   ![GitHub streak stats](https://streak-stats.demolab.com/?user=An-Uncreative)
+## 🛠️ Tech Stack
+
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+### Backend & Tools
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
+### Deployment
+
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-222222?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=An-Uncreative&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=An-Uncreative&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+---
+
+## 💡 What I'm Working On
+
+- 🔨 Building portfolio-ready projects with React and modern web technologies
+- 📚 Deepening knowledge in full-stack development patterns
+- 🎯 Exploring advanced React patterns and state management
+- 🌐 Contributing to open-source projects
+
+---
+
+## 📫 Let's Connect
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:oluwatiseerinle@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/An-Uncreative)
+
+---
+
+⚡ **Fun Fact:** Always hungry for knowledge (and food 😄) | Currently available for opportunities!
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=An-Uncreative&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</div>
 
