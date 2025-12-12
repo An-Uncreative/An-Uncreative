@@ -6,10 +6,10 @@
 **An-Uncreative/An-Uncreative** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:   -->
+**Full-Stack Developer | React Enthusiast | Building Modern Web Applications**
 
 <img src="https://cdn.dribbble.com/users/1714010/screenshots/10822383/media/ea98dfbdc8c2a056427061871bb42edc.gif" alt="An Overworking developer" width="1000" height="500" >
 
-**Full-Stack Developer | React Enthusiast | Building Modern Web Applications**
 
 💼 Open to Frontend & Full-Stack Developer Opportunities
 
