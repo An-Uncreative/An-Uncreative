@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey there 👋, Hope you're having a wonderful day.
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=9&color=78A73ADA&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=75&lines=I'm+Oluwatise.;A+Programmer+in+training" alt="Typing SVG" /></a></h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=9&color=78A73ADA&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=75&lines=I'm+Oluwatise+Erinle.;" alt="Typing SVG" /></a></h1>
 
 <!--
 **An-Uncreative/An-Uncreative** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,6 +8,8 @@
 Here are some ideas to get you started:   -->
 
 <img src="https://cdn.dribbble.com/users/1714010/screenshots/10822383/media/ea98dfbdc8c2a056427061871bb42edc.gif" alt="An Overworking developer" width="1000" height="500" >
+
+**Full-Stack Developer | React Enthusiast | Building Modern Web Applications**
 
 💼 Open to Frontend & Full-Stack Developer Opportunities
 
@@ -81,14 +83,11 @@ Real-time weather application with city search and dynamic weather icons.
 ## 📫 Let's Connect
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:oluwatiseerinle@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwatise-erinle-111442245/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/An-Uncreative)
 
 ---
 
 ⚡ **Fun Fact:** Always hungry for knowledge (and food 😄) | Currently available for opportunities!
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=An-Uncreative&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</div>
 
