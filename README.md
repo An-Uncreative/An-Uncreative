@@ -17,23 +17,21 @@ Here are some ideas to get you started:   -->
 
 ## 🌟 Featured Projects
 
-### [🎬 Movie Database](https://movie-database-three-ecru.vercel.app/)
+### [💰 Funds Accountability Tracker](https://github.com/An-Uncreative/accountability-tracker)
 
-Advanced React application with TMDB API integration, React Router, dynamic filtering, and sorting capabilities.  
-**Tech:** React, React Router, TMDB API, Vite, Lodash  
-[View Code](https://github.com/An-Uncreative/movie-database)
+Full-stack application prototype for transparent fund management, with fund and wallet creation, transaction tracking, automatic balance updates, and read-only monitoring links.  
+**Tech:** React, React Router, Node.js, Express, MongoDB, JWT, Vite
 
-### [✅ Todo & Shopping List](https://to-do-olive-omega.vercel.app/)
+### [🍽️ Lagos Bites](https://gleeful-frangollo-b44b48.netlify.app)
 
-Full-stack CRUD application with RESTful API backend and real-time data synchronization.  
-**Tech:** React, JSON Server, REST API, Vercel, Render  
-[Frontend Code](https://github.com/An-Uncreative/To-Do) | [Backend API](https://github.com/An-Uncreative/Todo-Shopping-API)
+Production-ready restaurant ordering system with dynamic meal listings, cart persistence, secure Paystack payments, server-side payment verification, and a protected admin dashboard.  
+**Tech:** React, React Router, Node.js, Express, MongoDB, Paystack, Netlify, Render  
+[View Code](https://github.com/An-Uncreative/lagos-bites)
 
-### [🌤️ Weather Dashboard](https://an-uncreative.github.io/Weather-App/)
+### [🗓️ Course Calendar](https://github.com/An-Uncreative/calendar)
 
-Real-time weather application with city search and dynamic weather icons.  
-**Tech:** JavaScript, OpenWeatherMap API, Fetch API, GitHub Pages  
-[View Code](https://github.com/An-Uncreative/Weather-App)
+Responsive full-stack calendar application for managing courses and events, featuring monthly navigation, real-time clock updates, complete CRUD functionality, validation, and mobile-friendly design.  
+**Tech:** PHP, MySQL, JavaScript, HTML5, CSS3, MAMP/XAMPP
 
 ---
 
